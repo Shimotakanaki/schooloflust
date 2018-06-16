@@ -62,31 +62,31 @@ Currently, having effort higher than 41 is not useful. You can get the maximum b
 <br>
 
 ### Romance bonus from gifts:
-Item | Mom | Natalie | Scarlett | Violet | Sofia
---- | :---: | :---: | :---: | :---: | :---:
-**$25** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Ball of yarn | f | f | f | f | 0
-Seashell | f | f | f | f | 1
-Lollipop | f | f | f | f | 2
-**$50** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Pen | f | f | f | f | 1
-Romance novel | f | f | f | f | 4
-Flowers | f | f | f | f | 0
-Teddy bear | f | f | f | f | 5
-**$150** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Silver ring | f | f | f | f | 15
-Purse | f | f | f | f | 10
-Gem | f | f | f | f | 5
-**$250** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Mirror | f | f | f | f | 10
-Cross | f | f | f | f | 25
-Golden ring | f | f | f | f | 50
-Shoes | f | f | f | f | 10
-**$500** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Bracelet | f | f | f | f | 100
-Dress | f | f | f | f | 0
-Mobile phone | f | f | f | f | 150
-**$1000** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Notebook | f | f | f | f | 250
-Necklace | f | f | f | f | 100
-Katana | f | f | f | f | 500
+Item | Mom | Natalie | Scarlett | Violet | Sofia | Zoe
+--- | :---: | :---: | :---: | :---: | :---: | :---:
+**$25** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Ball of yarn | f | 1 | f | f | 0 | 1
+Seashell | f | 0 | f | f | 1 | 2
+Lollipop | f | 2 | f | f | 2 | 1
+**$50** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Pen | f | f | f | f | 1 | f
+Romance novel | f | f | f | f | 4 | f
+Flowers | f | f | f | f | 0 | f
+Teddy bear | f | 2 | f | 5 | 5 | f
+**$150** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Silver ring | f | f | f | f | 15 | f
+Purse | f | f | f | f | 10 | f
+Gem | f | f | f | f | 5 | f
+**$250** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Mirror | f | f | f | f | 10 | f
+Cross | f | f | f | f | 25 | f
+Golden ring | f | f | f | f | 50 | f
+Shoes | f | f | f | f | 10 | f
+**$500** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Bracelet | f | f | f | f | 100 | f
+Dress | f | f | f | f | 0 | f
+Mobile phone | f | f | f | f | 150 | f
+**$1000** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+Notebook | f | f | f | f | 250 | f
+Necklace | f | f | f | f | 100 | f
+Katana | f | f | f | f | 500 | f
