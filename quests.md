@@ -62,7 +62,8 @@ Mom was offered a new job by Uncle Gip at his place in town, however she seems r
 #1 - Figure out where Mom works.  
 
 **Walkthrough:**  
-- incomplete
+- Read Flora's diary
+- Go to Bunny bar at evenning
 
 <br>
 <br>
